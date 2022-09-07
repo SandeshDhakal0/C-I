@@ -43,9 +43,9 @@
                 </a>
             </li>
             <li class="has-subnav">
-                <a href="#">
+                <a href="./product">
                     <i class="fa fa-laptop fa-2x"></i>
-                    <span class="nav-text"> Stars Components </span>
+                    <span class="nav-text"> Add Products </span>
                 </a>
             </li>
             <li class="has-subnav">

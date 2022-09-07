@@ -21,20 +21,21 @@
     <div class="container card col-6">
         <div class="col-sm card-body">
             <div class="card-header mb-3">Login</div>
-            <form action="">
+            <form action="#">
                 <div class="mb-3">
                     <label>Email address</label>
-                    <input type="email" class="form-control" placeholder="Enter email-address">
+                    <input type="email" class="form-control" placeholder="Enter email-address" value="">
                 </div>
                 <div class="mb-3">
                     <label>Password</label>
-                    <input type="password" class="form-control" placeholder="Enter password">
+                    <input type="password" class="form-control" placeholder="Enter password" value="">
                 </div>
-
+                <div class="mb-3">
                 <button type="submit" class="btn btn-primary">Submit</button>
-             
+                </div>
+                <div class="mb-3">
                 <button type="submit" class="btn btn-primary">Forget password</button>
-           
+                </div>
             </form>
         </div>
     </div>
